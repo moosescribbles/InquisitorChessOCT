@@ -1,0 +1,49 @@
+{
+  "title": "Chess OCT - Inquisitor",
+  "description": "Chess OCT - Inquisitor",
+  "artist": "MooseScribbles",
+  "author": "RainbowSamphie",
+  "cover": "https://i.imgur.com/QltNBVc.jpeg",
+  "chapters": {
+       "1": {
+      "title": "Inquisitor Intro comic and Ref",
+      "volume": "1",
+      "last_updated": "1730278187",
+      "groups": {
+        "Inquisitor": "/proxy/api/imgur/chapter/py3ZE1l/"
+      }
+    },
+    "2": {
+      "title": "Mouse Trap - Inquisitor v Ebony Stunt",
+      "volume": "1",
+      "last_updated": "1732178987",
+      "groups": {
+        "Inquisitor": "/proxy/api/imgur/chapter/QWtlVn2/"
+      }
+    },
+    "3": {
+      "title": "Canon Fodder - Inquisitor vs Ace",
+      "volume": "1",
+      "last_updated": "1735894187",
+      "groups": {
+        "Inquisitor": "/proxy/api/imgur/chapter/IUoM3N7/"
+      }
+    },
+    "4": {
+      "title": "Euchelaion - Inquisitor vs King Obmar",
+      "volume": "1",
+      "last_updated": "1738572587",
+      "groups": {
+        "Inquisitor": "/proxy/api/imgur/chapter/8t0m14f/"
+      }
+    },
+    "5": {
+      "title": "Respite - Inquisitor vs Irene",
+      "volume": "1",
+      "last_updated": "1741596587",
+      "groups": {
+        "Inquisitor": "/proxy/api/imgur/chapter/UgE2BCc/"
+      }
+    }
+  }
+}
